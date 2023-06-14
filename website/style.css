@@ -985,6 +985,7 @@ section{
 
     .header .header-1 .search-form.active{
         top:115%;
+        z-index:999;
     }
 
     .home .row .content{
